@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "collab-context-engine": {
+      "command": "node",
+      "args": [
+        "E:/collab/services/collab-server/dist/mcp/cli.js"
+      ],
+      "env": {
+        "NODE_ENV": "development",
+        "COLLAB_PROJECT_ID": "11111111-1111-4111-8111-111111111111"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/protocol" },
+    { "path": "./packages/contract-guard" },
+    { "path": "./packages/db" },
+    { "path": "./services/collab-server" },
+    { "path": "./apps/companion" }
+  ]
+}
