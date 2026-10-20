@@ -1,3 +1,0 @@
-# COLLAB
-
-Collaborative AI Platform
